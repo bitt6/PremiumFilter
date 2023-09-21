@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = environ.get("START_TXT", '''<b>Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i am. So add me to your group and makes admin.\n\nAre you ready for Long Drive Baby...🤪"""</i>''')
+    START_TXT = environ.get("START_TXT",'''<b>Hello {},\nMyself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i am. So add me to your group and makes admin.\n\nAre you ready for Long Drive Baby...🤪"""</i>''')
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
