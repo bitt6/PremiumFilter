@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = environ.get("START_TXT",'''<b>Hello {},\nMyself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i am. So add me to your group and makes admin.\n\nAre you ready for Long Drive Baby...🤪"""</i>''')
-
+    START_TXT = """Hello {},
+Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
     PRIVATEBOT_TXT = """<b>Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ
